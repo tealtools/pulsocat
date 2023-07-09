@@ -1,2 +1,3 @@
-# pulsocat
-The UI for Apache Pulsar
+# Pulsocat
+
+The UI for Apache Pulsar.
